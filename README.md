@@ -1,10 +1,10 @@
-### Hi, I'm Maharshi 👋
+### Hi, I'm Maharshi
 
 Computer Engineering student at **Georgia Tech** (graduating Dec 2027). I work across embedded systems, test automation, and machine learning for medical imaging.
 
-- 🔬 Undergraduate researcher at the **ComBiNE Lab**, reconstructing 4D cardiac meshes from echocardiogram video with PyTorch on HPC
-- ✈️ Previously an Electronics Engineering Intern at **Air Force Materiel Command**, building automated test software in C / LabWindows/CVI
-- 🤖 Former research assistant in biomechanics (U-Net / GAN segmentation) and robotics (walking robot firmware)
+- Undergraduate researcher at the **ComBiNE Lab**, reconstructing 4D cardiac meshes from echocardiogram video with PyTorch on HPC
+-  Previously an Electronics Engineering Intern at **Air Force Materiel Command**, building automated test software in C / LabWindows/CVI
+-  Former research assistant in biomechanics (U-Net / GAN segmentation) and robotics (walking robot firmware)
 
 ---
 
@@ -26,4 +26,4 @@ Computer Engineering student at **Georgia Tech** (graduating Dec 2027). I work a
 **ML:** PyTorch, Hugging Face, OpenCV, scikit-learn
 **Systems & hardware:** Linux, Git, SVN, LabWindows/CVI, oscilloscopes, logic analyzers, SolidWorks
 
-📫 [LinkedIn](https://linkedin.com/in/maharshi-naik) · maharshi.s.naik@gmail.com
+ [LinkedIn](https://linkedin.com/in/maharshi-naik) · maharshi.s.naik@gmail.com
