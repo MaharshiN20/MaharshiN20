@@ -1,4 +1,3 @@
-[README_MaharshiN20.md](https://github.com/user-attachments/files/33291433/README_MaharshiN20.md)
 ### Hi, I'm Maharshi 👋
 
 Computer Engineering student at **Georgia Tech** (graduating Dec 2027). I work across embedded systems, test automation, and machine learning for medical imaging.
