@@ -14,6 +14,7 @@ Computer Engineering student at **Georgia Tech** (graduating Dec 2027). I work a
 | Project | What it is | Stack |
 |---|---|---|
 | [**HeartBridge**](https://github.com/MaharshiN20/CORA) | Telegram agent that checks in daily with heart-failure patients after discharge, scores risk, and escalates to a nurse or 911. Built at HackGT 13. | Node.js, Express, React, socket.io, LLM APIs |
+| [**4D Heart Model**](https://github.com/MaharshiN20/4DHeartModelResearch) | Reproducing a generative model that reconstructs moving 3D heart meshes from 2D echocardiogram videos; made it build and train on the Expanse HPC cluster. Fork of [Laumer et al.](https://github.com/laumerf/4DHeartModel) | Python, TensorFlow, Slurm |
 | [**endoscopy-detection**](https://github.com/MaharshiN20/endoscopy-detection) | U-Net segmentation of openings in endoscopy images with combined BCE + Dice loss and threshold-tuned outputs. | Python, PyTorch |
 | [**Tripedal-Walking-Robot**](https://github.com/MaharshiN20/Tripedal-Walking-Robot) | Firmware for a three-legged walking robot that stops when it detects an obstacle. | C++, Arduino |
 | [**Smart-Walking-Stick**](https://github.com/MaharshiN20/Smart-Walking-Stick) | Obstacle-alert cane for visually impaired users with buzzer and vibration feedback. | C++, Arduino |
